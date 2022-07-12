@@ -1,6 +1,6 @@
 # Create-account
 
-Formmulario para cadastro de novo usuario!
+Formulario para cadastro de novo usuario!
 
 <img src="./assets/img-fundo.png"/>
 
